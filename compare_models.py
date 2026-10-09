@@ -1,4 +1,4 @@
-# Compare KNN, RandomForest and XGBoost (F1-score) with random search.
+# Compare KNN, RandomForest and LogisticRegression (F1-score) with random search.
 
 import joblib
 import mlflow
